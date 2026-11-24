@@ -4,7 +4,7 @@ Ce dépôt ne contient que les versions publiées de SOPHON : les installeurs po
 
 ## Dernière version
 
-[SOPHON 10.0.0](https://github.com/sk34pk25/sophon-releases/releases/tag/Sophon-V10.0.0) : micro et sortie de son au choix, conversation vocale plus naturelle, nouveau panneau de la voix.
+[SOPHON 10.1.0](https://github.com/sk34pk25/sophon-releases/releases/tag/Sophon-V10.1.0) améliore la compression du contexte, la copie des discussions, la dictée et la fiabilité des mises à jour.
 
 ## Installer
 
