@@ -2,6 +2,10 @@
 
 Ce dépôt ne contient que les versions publiées de SOPHON : les installeurs pour macOS et Windows, et le fichier qui permet à l'application de se mettre à jour toute seule. Le code de SOPHON est ailleurs.
 
+## Dernière version
+
+[SOPHON 10.0.0](https://github.com/sk34pk25/sophon-releases/releases/tag/Sophon-V10.0.0) : micro et sortie de son au choix, conversation vocale plus naturelle, nouveau panneau de la voix.
+
 ## Installer
 
 Ouvre la dernière version dans [Releases](https://github.com/sk34pk25/sophon-releases/releases) et télécharge :
