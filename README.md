@@ -4,7 +4,7 @@ Ce dépôt ne contient que les versions publiées de SOPHON : les installeurs po
 
 ## Dernière version
 
-[SOPHON 10.1.0](https://github.com/sk34pk25/sophon-releases/releases/tag/Sophon-V10.1.0) améliore la compression du contexte, la copie des discussions, la dictée et la fiabilité des mises à jour.
+[SOPHON 10.2.0](https://github.com/sk34pk25/sophon-releases/releases/tag/Sophon-V10.2.0) améliore la vision locale, la reprise après compression, la conversation vocale et les rappels.
 
 ## Installer
 
